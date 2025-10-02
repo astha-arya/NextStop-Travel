@@ -6,7 +6,7 @@ NextStop Travel is a modern, full-stack tour and travel booking website designed
 
 ### 🔴 Live Demo
 
-**You can view the live deployed website here:** [https://YOUR_VERCEL_URL](https://YOUR_VERCEL_URL)
+**You can view the live deployed website here:** [https://YOUR_VERCEL_URL]([https://YOUR_VERCEL_URL](https://next-stop-travel-5uaw3bptl-asthas-projects-a8790681.vercel.app))
 
 *(Replace `YOUR_VERCEL_URL` with the actual link to your Vercel deployment, which should be `https://nextstop-travel-chi.vercel.app` based on your screenshot)*
 
