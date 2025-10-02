@@ -10,7 +10,7 @@ NexStop Travel is a modern **tour and travel booking website** built with **Next
 
 - **Frontend**: React, Next.js, Tailwind CSS
 - **Backend**: Node.js, Express.js
-- **Database**: PostgreSQL (via migrations.sql)
+- **Database**: MySQL 
 - **Deployment**: Vercel
 
 ---
